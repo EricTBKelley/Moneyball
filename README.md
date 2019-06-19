@@ -1,1 +1,1 @@
-"# Moneyball" 
+# Moneyball
